@@ -16,7 +16,7 @@
 		<p><strong>Age:</strong> 39</p>
 		<p><strong>Job:</strong>Rhode has been a manager at ExampleTech for the past fourteen years.</p>
 		<p><strong>Goal:</strong>Rhode is, after a successful interview with a potential new employee, looking into
-		said interviewee's personal website.</p>
+			said interviewee's personal website.</p>
 		<p><strong>Behavior:</strong>Rhode is a confident and quietly affable woman who tends towards </p>
 
 
