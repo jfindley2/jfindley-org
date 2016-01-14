@@ -17,7 +17,13 @@
 		<p><strong>Job:</strong>Rhode has been a manager at ExampleTech for the past fourteen years.</p>
 		<p><strong>Goal:</strong>Rhode is, after a successful interview with a potential new employee, looking into
 			said interviewee's personal website.</p>
-		<p><strong>Behavior:</strong>Rhode is a confident and quietly affable woman who tends towards </p>
+		<p><strong>Behavior:</strong>Rhode is a confident and quietly affable woman who tends towards moderately aggressive decisions, taking reasonable risks for reasonable rewards (She won't risk anything she isn't willing to lose). </p>
+
+		<h2><strong>Use Case</strong></h2>
+		<p><strong>Goals:</strong>Rhode is learning more information to ascertain whether or not I am employable.</p>
+		<p><strong>Motivations:</strong>Rhode wishes to hire someone for ExampleTech.</p>
+		<p><strong>Time:</strong>An hour after my interview, at 2:00 PM.</p>
+		<p><strong>Location:</strong>In her office.</p>
 
 
 
