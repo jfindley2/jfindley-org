@@ -26,6 +26,11 @@
 		<p>Rhode accesses jfindley.org</p>
 		<p>jfindley.org presents her with my contact information, my photo, a few details about me, my accomplishments, my educational history, and what certifications and diplomas I have earned. </p>
 		<p>Rhode reviews this information, taking into account the interview and what she wants in an employee.</p>
+		<br/>
+		<br/>
+		<p><strong>Wireframe:</strong>
+			The viewer wishes to see my credentials and information. To do that, they go to my website and see said credentials and information.
+		The viewer wishes to see my contact information. To do that, they go to my website and see said contact information.</p>
 		<img src="pwp-Jacob.svg">
 		<br/>
 		<img src="jfindleyMobilePage.svg">
