@@ -27,6 +27,7 @@
 		<p>jfindley.org presents her with my contact information, my photo, a few details about me, my accomplishments, my educational history, and what certifications and diplomas I have earned. </p>
 		<p>Rhode reviews this information, taking into account the interview and what she wants in an employee.</p>
 		<img src="pwp-Jacob.svg">
+		<br/>
 		<img src="jfindleyMobilePage.svg">
 
 
