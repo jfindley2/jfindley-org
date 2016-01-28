@@ -5,7 +5,7 @@
 		<title>Milestone 2</title>
 	</head>
 	<body>
-		<p>
+		<p><strong>Interaction flow</strong>
 			The viewer wishes to see my credentials and information. To do that, they go to my website and see said credentials and information.</p>
 		<p>The viewer wishes to see my contact information. To do that, they go to my website and see said contact information.</p><br/>
 		<p><strong>Sitemap:</strong> I currently intend on there being just one page.</p>
