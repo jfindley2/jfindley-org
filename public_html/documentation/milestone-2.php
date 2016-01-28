@@ -12,8 +12,10 @@
 		<p>First I will have relevant information about myself. Where I went to school, what qualifications I have, what I have achieved, any certifications I have, et cetera.</p>
 		<p>Then, I will have my contact information. Primarily, email.</p>
 		<p>There will be an image. Possibly multiple images, which loop over time?</p>
+		<p><strong>Wireframe:</strong></p>
 		<img src="pwp-Jacob.svg">
 		<br/>
 		<img src="jfindleyMobilePage.svg">
+		<p><strong>Content Strategy: There will be a photo of myself or possibly something artistic. There will be a text description of myself and my history such that potential employers can know my accomplishments. There will be contact information such that potential employers can contact me.</strong></p>
 	</body>
 </html>
