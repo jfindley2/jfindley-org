@@ -19,7 +19,7 @@
 		<br/><br/>
 			<h2>Mobile</h2>
 		<img src="jfindleyMobilePage.svg">
-		<p><strong>Content Strategy:</strong> There will be a photo of myself or possibly something artistic. There will be a text description of myself and my history such that potential employers can know my accomplishments. There will be contact information such that potential employers can contact me. The mobile version of the site will not have a photo in consideration of size constraints.</p>
+		<p><strong>Content Strategy:</strong> There will be a photo of myself or possibly something artistic. There will be a text description of myself and my history such that potential employers can know my accomplishments. There will be contact information such that potential employers can contact me. The mobile version of the site will not have a photo in consideration of size  constraints.</p>
 			</div>
 	</body>
 </html>
