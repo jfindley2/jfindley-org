@@ -14,38 +14,40 @@
 
 	</head>
 	<main>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<h1 class="theHeader">Jacob Findley</h1>
-				</div>
-			</div><!-- class="row", the first row-->
-			<div class="row">
-				<div class="col-md-6">
-					<!-- Insert an image here-->
-				</div><!-- class="mol-md-6", the first column in the second row-->
-				<div class="col-md-6">
-					<div>
-						<h2>About Me/Credentials</h2>
-						<p>
-
-						</p>
+		<div class="page">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1 class="theHeader">Jacob Findley</h1>
 					</div>
-					<div>
-						<h2>Projects I've Worked On</h2>
-						<p>
+				</div><!-- class="row", the first row-->
+				<div class="row">
+					<div class="col-md-6">
+						<!-- Insert an image here-->
+					</div><!-- class="mol-md-6", the first column in the second row-->
+					<div class="col-md-6">
+						<div>
+							<h2>About Me/Credentials</h2>
+							<p>
 
-						</p>
-					</div>
-					<div>
-						<h2>Contact Information</h2>
-						<p>
+							</p>
+						</div>
+						<div>
+							<h2>Projects I've Worked On</h2>
+							<p>
 
-						</p>
-					</div>
-				</div><!-- class="col-md-6", the second column in the second row-->
-			</div> <!-- class="row", the second row-->
-		</div> <!--class="container" -->
+							</p>
+						</div>
+						<div>
+							<h2>Contact Information</h2>
+							<p>
+
+							</p>
+						</div>
+					</div><!-- class="col-md-6", the second column in the second row-->
+				</div> <!-- class="row", the second row-->
+			</div> <!--class="container" -->
+		</div>
 
 	</main>
 </html>
