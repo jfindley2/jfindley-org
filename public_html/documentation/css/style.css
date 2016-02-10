@@ -3,3 +3,11 @@
 	background-color: blue;
 	color: white;
 }
+.theHeader {
+	text-align: center;
+	background-color: darkblue;
+	border: 2px solid lightgreen;
+}
+#main {
+	background-color: lightcyan;
+}
