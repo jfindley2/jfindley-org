@@ -1,17 +1,36 @@
 .container {
 	position: relative;
-	background-color: red;
+	background-color: cornflowerblue;
 	color: white;
 }
 .theHeader {
 	text-align: center;
-	background-color: red;
-	border: 2px solid red;
+	background-color: darkslateblue;
+	border: 2px solid black;
 }
 .page {
-	background-color: red;
+	background-color: lightcyan;
+	margin: auto;
+	width: auto;
+	height: auto;
 }
 .foo {
-	background-color: red;
-	border: 2px solid red;
+	background-color: darkslateblue;
+	border: 2px solid black;
+}
+h2 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+.img-responsive {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+body {
+	margin: 0;
+	padding: 0;
 }

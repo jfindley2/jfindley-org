@@ -22,10 +22,10 @@
 					</div>
 				</div><!-- class="row", the first row-->
 				<div class="row">
-					<div class="col-md-6">
-						<!-- Insert an image here-->
+					<div class="col-md-6 col-sm-12">
+						<img src="jfindleyMobilePage.svg" class="img-responsive">
 					</div><!-- class="mol-md-6", the first column in the second row-->
-					<div class="col-md-6">
+					<div class="col-md-6 col-sm-12">
 						<div class="foo">
 							<h2>About Me/Credentials</h2>
 							<p>
