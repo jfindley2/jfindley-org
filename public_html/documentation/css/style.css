@@ -1,6 +1,6 @@
 .container {
 	position: relative;
-	/*background-color: blue;*/
+	background-color: red;
 	color: white;
 }
 .theHeader {
@@ -13,4 +13,5 @@
 }
 .contentBox {
 	background-color: aquamarine;
+	border: 2px solid black;
 }
