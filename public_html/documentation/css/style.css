@@ -11,3 +11,6 @@
 .page {
 	background-color: lightcyan;
 }
+.contentBox {
+	border: 2px solid black;
+}
