@@ -5,13 +5,13 @@
 }
 .theHeader {
 	text-align: center;
-	background-color: darkblue;
-	border: 2px solid lightgreen;
+	background-color: red;
+	border: 2px solid red;
 }
 .page {
-	background-color: lightcyan;
+	background-color: red;
 }
 .foo {
-	background-color: aquamarine;
-	border: 2px solid black;
+	background-color: red;
+	border: 2px solid red;
 }
