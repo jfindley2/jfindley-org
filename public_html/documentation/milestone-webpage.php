@@ -26,19 +26,19 @@
 						<!-- Insert an image here-->
 					</div><!-- class="mol-md-6", the first column in the second row-->
 					<div class="col-md-6">
-						<div class="contentBox">
+						<div class="foo">
 							<h2>About Me/Credentials</h2>
 							<p>
 
 							</p>
 						</div>
-						<div class="contentBox">
+						<div class="foo">
 							<h2>Projects I've Worked On</h2>
 							<p>
 								Testing
 							</p>
 						</div>
-						<div class="contentBox">
+						<div class="foo">
 							<h2>Contact Information</h2>
 							<p>
 
