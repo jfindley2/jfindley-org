@@ -30,12 +30,18 @@
 							<h2>About Me/Credentials</h2>
 							<p>
 
+								Skills:
+								Computer Languages: Java, C++, PHP, HTML, mySQL, Linux.
+								Knowledgeable in Object Oriented Programming and Data Design.
+								Proficiency in both front-end and back-end.
+								Writing
+								Critical thinking
 							</p>
 						</div>
 						<div class="foo">
 							<h2>Projects I've Worked On</h2>
 							<p>
-								Testing
+								Jpegery.com, an image hosting site
 							</p>
 						</div>
 						<div class="foo">
