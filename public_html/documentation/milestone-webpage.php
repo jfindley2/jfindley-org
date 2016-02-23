@@ -28,13 +28,16 @@
 					<div class="col-md-6 col-sm-12">
 						<div class="foo">
 							<h2>About Me/Credentials</h2>
+							<h3>Who I Am:</h3>
 							<p>
-
-								Skills:
+								My name is Jacob Findley, a student focused on computer science. I am working towards a career in Technical Writing, taking advantage of my natural talents in both computer languages and the English one. I hope to one day work for the government.
+							</p>
+							<h3>Skills:</h3>
+							<p>
 								Computer Languages: Java, C++, PHP, HTML, mySQL, Linux.
 								Knowledgeable in Object Oriented Programming and Data Design.
 								Proficiency in both front-end and back-end.
-								Writing
+								I am rather talented in writing, both technical and literary
 								Critical thinking
 							</p>
 						</div>
@@ -47,7 +50,7 @@
 						<div class="foo">
 							<h2>Contact Information</h2>
 							<p>
-
+								Email: jacobmfindley@icloud.com
 							</p>
 						</div>
 					</div><!-- class="col-md-6", the second column in the second row-->
