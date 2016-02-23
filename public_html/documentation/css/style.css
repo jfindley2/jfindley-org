@@ -16,10 +16,8 @@ html, .page {
 	background-color: darkslateblue;
 	border: 2px solid black;
 }
-h2 {
-	text-align: center;
-}
-p {
+
+p, h2, h3 {
 	text-align: center;
 }
 .img-responsive {
