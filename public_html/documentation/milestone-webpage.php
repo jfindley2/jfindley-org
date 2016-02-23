@@ -30,15 +30,15 @@
 							<h2>About Me/Credentials</h2>
 							<h3>Who I Am:</h3>
 							<p>
-								My name is Jacob Findley, a student focused on computer science. I am working towards a career in Technical Writing, taking advantage of my natural talents in both computer languages and the English one. I hope to one day work for the government.
+								My name is Jacob Findley, a student focused on computer science. I am working towards a career in Technical Writing, taking advantage of my natural talents in both computer languages and the English one. I hope to one day work for the government.<br/>
 							</p>
 							<h3>Skills:</h3>
 							<p>
-								Computer Languages: Java, C++, PHP, HTML, mySQL, Linux.
-								Knowledgeable in Object Oriented Programming and Data Design.
-								Proficiency in both front-end and back-end.
-								I am rather talented in writing, both technical and literary
-								Critical thinking
+								Computer Languages: Java, C++, PHP, HTML, mySQL, Linux.<br/>
+								Knowledgeable in Object Oriented Programming and Data Design.<br/>
+								Proficiency in both front-end and back-end.<br/>
+								I am rather talented in writing, both technical and literary<br/>
+								Critical thinking<br/>
 							</p>
 						</div>
 						<div class="foo">
