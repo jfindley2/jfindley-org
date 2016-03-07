@@ -23,7 +23,7 @@
 				</div><!-- class="row", the first row-->
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
-						<img src="jfindleyMobilePage.svg" class="img-responsive">
+						<img src="../images/jfindleyMobilePage.svg" class="img-responsive">
 					</div><!-- class="mol-md-6", the first column in the second row-->
 					<div class="col-md-6 col-sm-12">
 						<div class="foo">

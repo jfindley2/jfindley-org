@@ -15,10 +15,10 @@
 		<p>There will be an image. Possibly multiple images, which loop over time? This will not be on the mobile version.</p>
 		<p><strong>Wireframe:</strong></p>
 			<h2>Desktop</h2>
-			<img src="pwp-Jacob.svg">
+			<img src="../images/pwp-Jacob.svg">
 		<br/><br/>
 			<h2>Mobile</h2>
-		<img src="jfindleyMobilePage.svg">
+		<img src="../images/jfindleyMobilePage.svg">
 		<p><strong>Content Strategy:</strong> There will be a photo of myself or possibly something artistic. There will be a text description of myself and my history such that potential employers can know my accomplishments. There will be contact information such that potential employers can contact me. The mobile version of the site will not have a photo in consideration of size  constraints.</p>
 			</div>
 	</body>
