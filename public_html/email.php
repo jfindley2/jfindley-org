@@ -12,7 +12,7 @@ try {
 
 	$swiftMessage = Swift_Message::newInstance();
 
-	// attach the sender to the message
+	// Attach the sender to the message
 
 	$swiftMessage->setFrom([$email => "A Visitor"]);
 
@@ -20,7 +20,7 @@ try {
 	$recipients = ["jacobmfindley@icloud.com" => "Jacob M Findley"];
 	$swiftMessage->setTo($recipients);
 
-	// attach the subject line to the message
+	// Attach the subject line to the message
 
 	$swiftMessage->setSubject("A Message from a visitor");
 
@@ -38,17 +38,13 @@ try {
 	$mailer = Swift_Mailer::newInstance($smtp);
 	$numSent = $mailer->send($swiftMessage, $failedRecipients);
 
-	/**
-	 * the send method returns the number of recipients that accepted the Email
-	 * so, if the number attempted is not the number accepted, this is an Exception
-	 **/
+	//Throws an error if we were unable to send the email.
 	if($numSent !== count($recipients)) {
-		// the $failedRecipients parameter passed in the send() method now contains contains an array of the Emails that failed
 
 		throw(new RuntimeException("unable to send email"));
 	}
 
-	// report a successful send
+	// Report whether the email was sent or not.
 
 	echo "<div class=\"alert alert-success\" role=\"alert\">Email successfully sent.</div>";
 } catch(Exception $exception) {
