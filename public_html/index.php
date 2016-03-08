@@ -11,6 +11,8 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 		<link rel="stylesheet" href="css/style.css"/>
+		<script src="app.js"></script>
+		<script src="controller.js"></script>
 
 	</head>
 	<main>
@@ -52,9 +54,20 @@
 							<p>
 								Email: jacobmfindley@icloud.com
 							</p>
-							<form ng-controller="MyCtrl" name="form">
-								<div
+							<form name="form" id="form" action="email.php">
+								<div class="form-group">
+									<div class="input-group">
+										<input type="text" id="email" name="email" class="form-control" ng-minlength="4" maxlength="1000" ng-maxlength="1000" ng-required="true" placeholder="Email"/>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="input-group">
+										<input type="text" id="emailContent" name="emailContent" class="form-control" ng-minlength="3" maxlength="10000" ng-maxlength="10000" ng-required="true" placeholder="What do you want to say?"
+									</div>
+								</div>
+								<button type="submit" class="btn btn-primary">Submit</button>
 							</form>
+
 						</div>
 					</div><!-- class="col-md-6", the second column in the second row-->
 				</div> <!-- class="row", the second row-->
