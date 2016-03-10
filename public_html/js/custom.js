@@ -19,7 +19,7 @@ $(document).ready(function(){
 
 				// reset the form if it was successful
 				if($(".alert-success").length >= 1) {
-					$("#contact-form")[0].reset();
+					$("#form")[0].reset();
 				}
 			}
 		});

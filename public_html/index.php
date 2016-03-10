@@ -55,7 +55,7 @@
 							<p>
 								Email: jacobmfindley@icloud.com
 							</p>
-							<form name="form" id="form" action="email.php">
+							<form name="form" id="form" action="email.php" method="post">
 								<div class="form-group">
 									<div class="input-group">
 										<input type="text" id="email" name="email" class="form-control" ng-minlength="4" maxlength="1000" ng-maxlength="1000" ng-required="true" placeholder="Email"/>
