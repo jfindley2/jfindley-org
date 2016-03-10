@@ -11,8 +11,6 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 		<link rel="stylesheet" href="documentation/css/style.css"/>
-		<script src="app.js"></script>
-		<script src="controller.js"></script>
 		<script src="js/custom.js"></script>
 
 	</head>
@@ -55,7 +53,7 @@
 							<p>
 								Email: jacobmfindley@icloud.com
 							</p>
-							<form name="form" id="form" action="email.php" method="post">
+							<form name="form" id="form" action="php/email.php" method="post">
 								<div class="form-group">
 									<div class="input-group">
 										<input type="text" id="email" name="email" class="form-control" ng-minlength="4" maxlength="1000" ng-maxlength="1000" ng-required="true" placeholder="Email"/>
