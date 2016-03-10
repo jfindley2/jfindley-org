@@ -1,5 +1,5 @@
 <?php
-require_once((dirname(__DIR__)) . "/vendor/autoload.php");
+require_once (dirname(__DIR__) . "/vendor/autoload.php");
 try {
 	// sanitize the inputs from the form: name, email, subject, and message
 

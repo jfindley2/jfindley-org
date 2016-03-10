@@ -67,7 +67,7 @@
 								</div>
 								<button type="submit" class="btn btn-primary">Submit</button>
 							</form>
-
+							<div id="output-area"></div>
 						</div>
 					</div><!-- class="col-md-6", the second column in the second row-->
 				</div> <!-- class="row", the second row-->
