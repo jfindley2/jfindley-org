@@ -13,6 +13,7 @@
 		<link rel="stylesheet" href="css/style.css"/>
 		<script src="app.js"></script>
 		<script src="controller.js"></script>
+		<script src="js/custom.js"></script>
 
 	</head>
 	<main>

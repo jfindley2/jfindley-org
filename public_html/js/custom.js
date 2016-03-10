@@ -23,7 +23,7 @@ $(document).ready(function(){
 				}
 			}
 		});
-		e.preventDefault();Adde
+		e.preventDefault();
 	});// end JQuery Form Processor
 
 });/*end document.ready()*/
