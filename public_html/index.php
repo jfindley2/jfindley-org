@@ -24,7 +24,7 @@
 				</div><!-- class="row", the first row-->
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
-						<img src="jfindleyMobilePage.svg" class="img-responsive">
+						<img src="images/jfindleyMobilePage.svg" class="img-responsive">
 					</div><!-- class="mol-md-6", the first column in the second row-->
 					<div class="col-md-6 col-sm-12">
 						<div class="foo">
@@ -51,7 +51,7 @@
 						<div class="foo">
 							<h2>Contact Information</h2>
 							<p>
-								Email: jacobmfindley@icloud.com
+								Email: jacobfindley@jfindley.org
 							</p>
 							<form name="form" id="form" action="php/email.php" method="post">
 								<div class="form-group">
